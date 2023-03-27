@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hi 👋, I'm Maria Teresa</h1>
+<h2>Hi 👋, I'm Maria Teresa</h2>
 <h3>Computer Engineer</h3>
 
-- 🔭 I’m currently working on Controladoria-Geral do Estado de Santa Catarina
+- 🔭 I’m currently working on [Controladoria-Geral do Estado de Santa Catarina](https://cge.sc.gov.br/)
 
-- 📝 I regularly write articles on [https://scholar.google.com.br/citations?user=ZeBZgVoAAAAJ&hl=pt-BR](https://scholar.google.com.br/citations?user=ZeBZgVoAAAAJ&hl=pt-BR)
+- 📝 I regularly write [articles](https://scholar.google.com.br/citations?user=ZeBZgVoAAAAJ&hl=pt-BR)
 
-- 📄 Know about my experiences [https://mariaaseret.com](https://mariaaseret.com)
+- 😄 Know about my [experiences](https://mariaaseret.com)
 
+- ⚡ Fun fact: me conta você
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaaseret&show_icons=true&theme=dracula&locale=en" alt="mariaaseret" /></p>
