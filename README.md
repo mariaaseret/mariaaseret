@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: me conta você
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaaseret&show_icons=true&theme=apprentice&locale=en" alt="mariaaseret" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaaseret&show_icons=true&theme=apprentice&locale=en&hide=prs,issues" alt="mariaaseret" /></p>
