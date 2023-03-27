@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Maria Teresa Silva Santos</h1>
-<h3 align="center">Computer Engineer</h3>
+<h2>Hi 👋, I'm Maria Teresa</h1>
+<h3>Computer Engineer</h3>
 
-- 🔭 I’m currently working on [Controladoria-Geral do Estado de Santa Catarina](https://cge.sc.gov.br/)
+- 🔭 I’m currently working on Controladoria-Geral do Estado de Santa Catarina
 
 - 📝 I regularly write articles on [https://scholar.google.com.br/citations?user=ZeBZgVoAAAAJ&hl=pt-BR](https://scholar.google.com.br/citations?user=ZeBZgVoAAAAJ&hl=pt-BR)
 
