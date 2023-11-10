@@ -3,6 +3,7 @@
 
 
 **mariaaseret/mariaaseret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaaseret&show_icons=true&theme=apprentice&locale=en&hide=prs,issues&count_private=true" alt="mariaaseret" /></p>
 
 Here are some ideas to get you started:
 
@@ -26,4 +27,3 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: me conta você
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaaseret&show_icons=true&theme=apprentice&locale=en&hide=prs,issues&count_private=true" alt="mariaaseret" /></p>
